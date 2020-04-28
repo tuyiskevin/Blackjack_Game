@@ -1,2 +1,10 @@
 # Blackjack_Game
-The code implements the blackjack game with functions like hit and stand on the part of the player.
+This is a simple java implementation of the blackjack game. This version has an interactive user interface once the code is run.
+
+### installation
+- clone the repo
+- compile the java code from a terminal
+- Have fun
+
+### credit
+Developed and maintained by [kcode](https://github.com/tuyiskevin)
